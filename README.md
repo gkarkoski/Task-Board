@@ -36,8 +36,8 @@ Banco de dados (ex: PostgreSQL, MySQL)
 
 # Clonando o repositório
 
-git clone https://github.com/seu-usuario/board-tasks.git
-cd board-tasks
+git clone https://github.com/gkarkoski/Task-Board
+cd Task-Board
 
 Configuração do banco de dados
 
